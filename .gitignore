@@ -20,6 +20,9 @@ coverage.xml
 # Streamlit
 .streamlit/
 
+# Firebase
+.firebase/
+
 # macOS
 .DS_Store
 

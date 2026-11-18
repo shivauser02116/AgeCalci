@@ -4,7 +4,7 @@ A clean, tested, deployable Python app that calculates your **exact age** in yea
 
 Available as both a **Streamlit web app** and an **interactive CLI**.
 
-> **Live demo:** *(deploy URL — fill in after Streamlit Community Cloud deployment)*
+> **Live demo:** [https://age-calci-shiva-02116.web.app](https://age-calci-shiva-02116.web.app) (Hosted on Firebase)
 
 ---
 
